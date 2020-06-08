@@ -1,0 +1,13 @@
+580001	BID
+PRO_gnome-print	PRO
+COM_gnome-cups-manager	COM
+VER_0.33	VER
+SEV_critical	SEV
+PRI_High	PRI
+572385	BID
+575783	BID
+381618	BID
+PRO_rhythmbox	PRO
+COM_general	COM
+VER_0.9.6	VER
+576763	BID
