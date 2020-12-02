@@ -1,0 +1,27 @@
+==============================================================================
+HINDBR Release License
+==============================================================================
+/* HINDBR — Heterogeneous Information Network Based Duplicate Bug Report Prediction */
+Copyright (C) <2020->  <Guanping Xiao: https://guanpingxiao.github.io/>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+==============================================================================
+Copyrights and Licenses for Third Party Software Distributed with HINDBR:
+==============================================================================
+
+The HINDBR software contains code written by third parties.  Such software
+will have its own individual LICENSE.TXT file in the directory in which it
+appears.  This file will describe the copyrights, license, and restrictions
+which apply to that code.
