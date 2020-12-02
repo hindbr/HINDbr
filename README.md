@@ -1,4 +1,4 @@
-# HINDbr
+# HINDbr: Heterogeneous Information Network Based Duplicate Bug Report Prediction
 
 ### Bug Data
 
