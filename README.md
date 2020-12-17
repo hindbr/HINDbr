@@ -1,4 +1,19 @@
-# HINDbr: Heterogeneous Information Network Based Duplicate Bug Report Prediction
+## HINDbr: Heterogeneous Information Network Based Duplicate Bug Report Prediction
+
+### Publication
+HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction (ISSRE'2020).
+
+```
+@inproceedings{xiao2020hindbr,
+  title={HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction},
+  author={Xiao, Guanping and Du, Xiaoting and Sui, Yulei and Yue, Tao},
+  booktitle={2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={195--206},
+  year={2020},
+  organization={IEEE}
+}
+```
+---
 
 ### Bug Data
 
