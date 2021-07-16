@@ -15,6 +15,14 @@ HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction 
 ```
 ---
 
+### Installation and Tested Environment
+Run the following command to install software dependencies (Python 3.6, tensorflow-gpu==1.15.0, Keras==2.3.1)
+```sh
+pip3 install -r requirements.txt
+```
+
+Note, HINDbr is developed and tested in a DELL Precision Tower with a 3.60 GHz Intel i9-9900K CPU, 32 GB memory, 512GB SSD and 2TB HDD storage, and an NVIDIA RTX 2080Ti GPU, running Ubuntu 18.04. We didn't test it in other hardware and software environments.
+
 ### Bug Data
 
 Download the [bug reports](https://github.com/hindbr/BugData) and arrange the directory level as the following depiction. Otherwise, you need to change the directory setting from <ins>data/xmlfile_path.setting</ins>.
