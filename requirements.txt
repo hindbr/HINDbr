@@ -16,7 +16,7 @@ joblib==0.14.1
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-Markdown==3.2.1
+Markdown==3.8.1
 networkx==2.3
 nltk==3.5
 numpy==1.18.3
